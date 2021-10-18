@@ -80,4 +80,5 @@ npm install
   ```
 
 Autor: [Victor Canto](https://www.linkedin.com/in/vscanto/)
+
 Readme Original deste projeto: [README](https://github.com/victorcanto/trybe-projects/tree/victorcanto-sd-010-a-project-blogs-api)
