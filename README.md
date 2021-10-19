@@ -57,6 +57,16 @@ npm install
   ```bash
     npm run drop
   ```
+ ## Criando variáveis de ambiente
+ 
+ > Na pasta raiz do projeto, crie um arquivo chamado .env com as seguintes informações:
+   ```bash
+    MYSQL_USER=seu_usuario_mysql
+    MYSQL_PASSWORD=sua_senha_mysql
+    HOSTNAME=127.0.0.1
+    JWT_SECRET=qualquer_coisa
+  ```
+ 
  ## Executando aplicação
  
  > Na pasta raiz do projeto, para iniciar servidor, executar o comando:
