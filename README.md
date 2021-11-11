@@ -13,7 +13,6 @@ Este projeto trata-se de uma aplicação backend utilizando a arquitetura MSC. N
 - [NodeJs](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
 - [JWT](https://jwt.io/)
-- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Sequelize ORM](https://sequelize.org/)
 
 ## Clonando repositório
